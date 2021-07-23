@@ -1,0 +1,16 @@
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\bin\Debug\netcoreapp3.1\RabbitMQTest.exe
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\bin\Debug\netcoreapp3.1\RabbitMQTest.deps.json
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\bin\Debug\netcoreapp3.1\RabbitMQTest.runtimeconfig.json
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\bin\Debug\netcoreapp3.1\RabbitMQTest.runtimeconfig.dev.json
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\bin\Debug\netcoreapp3.1\RabbitMQTest.dll
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\bin\Debug\netcoreapp3.1\RabbitMQTest.pdb
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\obj\Debug\netcoreapp3.1\RabbitMQTest.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\obj\Debug\netcoreapp3.1\RabbitMQTest.AssemblyInfo.cs
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\obj\Debug\netcoreapp3.1\RabbitMQTest.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\obj\Debug\netcoreapp3.1\RabbitMQTest.csproj.CopyComplete
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\obj\Debug\netcoreapp3.1\RabbitMQTest.dll
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\obj\Debug\netcoreapp3.1\RabbitMQTest.pdb
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\obj\Debug\netcoreapp3.1\RabbitMQTest.genruntimeconfig.cache
+C:\Users\Joel\source\repos\RabbitMQTest\RabbitMQTest\obj\Debug\netcoreapp3.1\RabbitMQTest.csprojAssemblyReference.cache

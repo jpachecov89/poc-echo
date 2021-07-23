@@ -1,0 +1,15 @@
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\bin\Debug\netcoreapp3.1\ReceiveRabbitMQTest.exe
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\bin\Debug\netcoreapp3.1\ReceiveRabbitMQTest.deps.json
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\bin\Debug\netcoreapp3.1\ReceiveRabbitMQTest.runtimeconfig.json
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\bin\Debug\netcoreapp3.1\ReceiveRabbitMQTest.runtimeconfig.dev.json
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\bin\Debug\netcoreapp3.1\ReceiveRabbitMQTest.dll
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\bin\Debug\netcoreapp3.1\ReceiveRabbitMQTest.pdb
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\obj\Debug\netcoreapp3.1\ReceiveRabbitMQTest.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\obj\Debug\netcoreapp3.1\ReceiveRabbitMQTest.AssemblyInfo.cs
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\obj\Debug\netcoreapp3.1\ReceiveRabbitMQTest.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\obj\Debug\netcoreapp3.1\ReceiveRabbitMQTest.csproj.CopyComplete
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\obj\Debug\netcoreapp3.1\ReceiveRabbitMQTest.dll
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\obj\Debug\netcoreapp3.1\ReceiveRabbitMQTest.pdb
+C:\Users\Joel\source\repos\ReceiveRabbitMQTest\ReceiveRabbitMQTest\obj\Debug\netcoreapp3.1\ReceiveRabbitMQTest.genruntimeconfig.cache
